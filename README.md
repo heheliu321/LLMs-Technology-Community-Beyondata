@@ -2,23 +2,26 @@
   <img src="./images/head-img1.png" >
   <h1>🔶 近期热门更新</h1>
 
-   [⭐ LangGraph快速入门与企业级项目开发实战](https://kq4b3vgg5b.feishu.cn/wiki/SKO3w1ddTi9ctdkXLmQcbYEfnvF?from=from_copylink)
+   [🔥 多模态PDF检索+图文并茂回复，企业级「多模态RAG」系统开发实战](https://kq4b3vgg5b.feishu.cn/wiki/VfUqwW0y2ii9CLkATzZcgWLmnke)
 
-   [⭐ LangChain从入门到企业级项目实战合集](https://kq4b3vgg5b.feishu.cn/wiki/GyXZwF4sbiSbQfkvdFHc5cP9nCh?from=from_copylink)
+   [⭐ LangGraph快速入门与企业级项目实战合集](https://kq4b3vgg5b.feishu.cn/wiki/SKO3w1ddTi9ctdkXLmQcbYEfnvF)
+
+   [⭐ LangChain从入门到企业级项目实战合集](https://kq4b3vgg5b.feishu.cn/wiki/GyXZwF4sbiSbQfkvdFHc5cP9nCh)
+
+   [⭐ Dify快速入门与聊天助手搭建流程](https://kq4b3vgg5b.feishu.cn/wiki/Ip3GwzlIEi2JB8kHnxncLeDtnXe)
 
    [👑 Suna本地部署指南](https://kq4b3vgg5b.feishu.cn/wiki/GwXiwPCDxiniRJk9D8VcMo3NnBn?from=from_copylink)
 
    [👑 CodeX快速上手指南](https://kq4b3vgg5b.feishu.cn/wiki/GEzGwxdNriZHfwk9VjLcyAw6nqd)
 
-   [👑 Qwen3混合推理模型「对话+推理」双形态高效微调实战（上）](https://kq4b3vgg5b.feishu.cn/wiki/CnFgwyxZLiDuvTk8SmEc9vWXnDh?from=from_copylink)
+   [💥 GPT-OSS高效微调提升模型Agent性能基本原理+实战](https://kq4b3vgg5b.feishu.cn/docx/DYH5d4G1HoLnCKxhveBcuQQwnNd)
 
-   [👑 GitHub Copilot使用指南【中文版】](https://kq4b3vgg5b.feishu.cn/wiki/H5Kdw54HmiH8Qzk4CLeccrCNnSc?from=from_copylink)
+   [💥 Qwen3混合推理模型「对话+推理」双形态高效微调实战（上）](https://kq4b3vgg5b.feishu.cn/wiki/CnFgwyxZLiDuvTk8SmEc9vWXnDh?from=from_copylink)
 
    [💎 从零开发可一次输出5000字深度报告的mcp-server-deepresearch](https://kq4b3vgg5b.feishu.cn/wiki/NmBIwIujUi27L4kNFNjc98wRnOf?from=from_copylink)
 
    [💎 最热门十大MCP工具快速部署与智能体开发实战](https://kq4b3vgg5b.feishu.cn/wiki/Unv8wuhE3iVgeikTikmceN6snBe?from=from_copylink)
 
-   [💥 Agents SDK+DeepSeek+MCP智能体开发实战](https://kq4b3vgg5b.feishu.cn/wiki/WPAtwSxFGi5oBUkqHWscmiDdnmd?from=from_copylink)
 
 
 </div>
@@ -65,9 +68,10 @@
 ### [ ✨学员深度访谈合集丨Agentic时代同行计划](https://kq4b3vgg5b.feishu.cn/wiki/YZvVwOAu2i96U9kEinUcFzeqnif?from=from_copylink)
 
 ### 1.1 开源大模型指南
+- [GPT-OSS（README）](https://kq4b3vgg5b.feishu.cn/wiki/PmgcwJwTeiKVcYkUOPXcpQptn7g?from=from_copylink)
 - [Qwen3（README）](https://kq4b3vgg5b.feishu.cn/wiki/NQjCwDk79icMgFkPJa1cVj5ynPc?from=from_copylink)
-- [DeepSeek R1（README）](https://kq4b3vgg5b.feishu.cn/wiki/O3LywohuziEuQ9kg1mDc1uqFnKg)
 - [DeepSeek v3（README）](https://kq4b3vgg5b.feishu.cn/wiki/HU1lwF8DiiGTa7k7BbUcJIIenVf?from=from_copylink)
+- [DeepSeek R1（README）](https://kq4b3vgg5b.feishu.cn/wiki/O3LywohuziEuQ9kg1mDc1uqFnKg)
 - [DeepSeek Janus（README）](https://kq4b3vgg5b.feishu.cn/wiki/VlPHwDAZVitsSAkiSi4c2gefngi?from=from_copylink)
 - [Phi-4 14B（README）](https://kq4b3vgg5b.feishu.cn/wiki/RO5RwU5X5iKa05kKj5bcEjNPnxf?from=from_copylink)
 - [Qwen系列（README）](https://kq4b3vgg5b.feishu.cn/wiki/UZZCwWGmniPZ7pkD7ohcMPejnId?from=from_copylink)
@@ -77,7 +81,7 @@
 - [LlAMA.CPP开源推理框架使用指南](https://kq4b3vgg5b.feishu.cn/wiki/UNITwA14fiMr5Gk8AGHcxTAUnqU?from=from_copylink)
 
 ### 1.2 在线大模型指南
-- [GPT-4.1（README）](https://kq4b3vgg5b.feishu.cn/wiki/CZPSwqG8Di3vF2kNeWpcizV3nDf?from=from_copylink)
+- [GPT-5（README）](https://kq4b3vgg5b.feishu.cn/wiki/Ynivwa7IVilnpJkvWZ5cw5zmn5d?from=from_copylink)
 - [OpenAI Responses API（README）](https://kq4b3vgg5b.feishu.cn/wiki/YDnCwWHc1iIHhzkvxercmiyMnHb?from=from_copylink)
 - [OpenAI Agents API（README）](https://kq4b3vgg5b.feishu.cn/wiki/YMoYw88XxiasdYk5sJ8cu4h6nrg?from=from_copylink)
 - [OpenAI Realtime API（README）](https://kq4b3vgg5b.feishu.cn/wiki/TmE5wzZv0iG5LJkJVphcCV3Fncc?from=from_copylink)
@@ -89,6 +93,7 @@
 - [GLM-4（README）](https://kq4b3vgg5b.feishu.cn/wiki/OMyXw5aVQibKMLkrMgLcYVd3n1d?from=from_copylink)
 
 ### 1.3 RAG全栈技术
+- [多模态RAG（README）](https://kq4b3vgg5b.feishu.cn/wiki/VfUqwW0y2ii9CLkATzZcgWLmnke?from=from_copylink)
 - [GraphRAG（README）](https://kq4b3vgg5b.feishu.cn/wiki/BcEiwp1t7iWE3EkKr3xcJZCLnBe?from=from_copylink)
 - [Agentic RAG（README）](https://kq4b3vgg5b.feishu.cn/wiki/Mpt8wZ6Y8ix8BzkoJwocKr0wnWe?from=from_copylink)
 - [RAG（README）](https://kq4b3vgg5b.feishu.cn/wiki/TPj1wSLOYi9hxLknViccjpAnnod?from=from_copylink)
@@ -96,23 +101,31 @@
 ### 1.4 Agent开发范式（更多项目查看实战项目部分）
 - [LangChain（README）](https://kq4b3vgg5b.feishu.cn/wiki/GyXZwF4sbiSbQfkvdFHc5cP9nCh?from=from_copylink)
 - [LangGraph（README）](https://kq4b3vgg5b.feishu.cn/wiki/SKO3w1ddTi9ctdkXLmQcbYEfnvF?from=from_copylink)
+- [Dify（README）](https://kq4b3vgg5b.feishu.cn/wiki/DadOwgA4fia7yekCbclcZ9HCnyb?from=from_copylink)
 - [Multi-Agent（README）](https://kq4b3vgg5b.feishu.cn/wiki/GKxkw87FLinDj6kYl3Pc5t5qnhH?from=from_copylink)
 - [Agent（README）](https://kq4b3vgg5b.feishu.cn/wiki/XVcTwbs2FijnszkP6lBcRPd7ntc?from=from_copylink)
 
 ### 1.5 微调
 - [LLaMA-Factory（README）](https://kq4b3vgg5b.feishu.cn/wiki/GGTJwFEV9icFknkQT45czzX5n7g?from=from_copylink)
 - [LoRA（README）](https://kq4b3vgg5b.feishu.cn/wiki/NiIPwnUJ7iyvJMkZ2WycqqMsnQb?from=from_copylink)
+- [GPT-OSS高效微调实战丨数据集专题+模型Agent性能微调（课件）](https://kq4b3vgg5b.feishu.cn/wiki/PmgcwJwTeiKVcYkUOPXcpQptn7g)
 - [Qwen3混合推理模型「对话+推理」双形态高效微调实战（课件）](https://kq4b3vgg5b.feishu.cn/wiki/CnFgwyxZLiDuvTk8SmEc9vWXnDh)
 - [DeepSeek R1高效微调入门（课件）](https://kq4b3vgg5b.feishu.cn/wiki/Qx3Kwpr4HiKu7FkfZA0cgYMSnQe?from=from_copylink)
 
 ### 2.1 热门项目实战合集
+- [从0到1搭建企业级多模态RAG检索引擎丨olmOCR与MinerU](https://kq4b3vgg5b.feishu.cn/wiki/ZSUowLdl0izBQwkRPIicPvp7n2m)
+- [借助最新模型GPT-4.1搭建一个Mini DeepResearch实战项目](https://kq4b3vgg5b.feishu.cn/wiki/WhVjwreh9iE9YFkuofNc0uudnpa)
+- [DeepSeek企业级智能体MiniManus开发实战](https://kq4b3vgg5b.feishu.cn/wiki/IOpjwnFAxiMoCBkucZocnQslnXx)
 - [CherryStudio+高德MCP打造个人出行规划助理](https://kq4b3vgg5b.feishu.cn/wiki/BfeTwX1xricORMkK9gCcjLqTnWf?from=from_copylink)
+- [DeepSeek R1模型蒸馏入门实战](https://kq4b3vgg5b.feishu.cn/wiki/L1A0wyqdPieHrykU8KWcEdpfn0q)
+- [Agent智能客服案例实战（DeepSeek+LangGraph）](https://kq4b3vgg5b.feishu.cn/wiki/NaUDwDa6QiRfOCkRP9pcmUydnYb)
 - [MateGen：新一代交互式AI智能编程助手（安装与部署文档）](https://kq4b3vgg5b.feishu.cn/wiki/EdhYwIEGRiCx9ekhuaKcU8f4nkb?from=from_copylink)
 - [企业级DB-GPT安装部署指南](https://kq4b3vgg5b.feishu.cn/wiki/EXl0wICqgiiOErkAWHBcxy9wnYe?from=from_copylink)
 - [手动复现DeepSeek v3丨预训练+全量指令微调+DPO强化学习微调全流程实战](https://kq4b3vgg5b.feishu.cn/wiki/ZrkLwOqlzikogykSsmjcRXpUnLh?from=from_copylink)
 - [从零搭建开发私有智能客服系统](https://kq4b3vgg5b.feishu.cn/wiki/ZCQSwFYUfio90KkUMN5c8CFPnHM?from=from_copylink)
 - [从零训练专属大模型技术实战合集](https://kq4b3vgg5b.feishu.cn/wiki/FeivwiFfTinLpUk04BlcN8MhnTf?from=from_copylink)
 - [B站动态数据&舆情分析智能体](https://kq4b3vgg5b.feishu.cn/docx/UtsmdFQgXo3K8kxGyuscaPpDnZd?from=from_copylink)
+- [Qwen2.5-Coder适配Cursor实现低代码开发](https://kq4b3vgg5b.feishu.cn/wiki/ORB8wd6t8iQiWQkfd7McZxChnif)
 - [CrewAI+LangChain搭建Multi Agent系统实战合集](https://kq4b3vgg5b.feishu.cn/wiki/HoLNwUIlKiOaUgk1rwyco99enFf?from=from_copylink)
 - [从零构建类ChatGPT的智能对话系统（RAG技术核心）](https://kq4b3vgg5b.feishu.cn/wiki/VaP4wS7xNicrygkfjBmc67RenEe?from=from_copylink)
 - [从0搭建Agent+RAG](https://kq4b3vgg5b.feishu.cn/wiki/F4zLw1WltiTbWNkuEtacp6c0nzd?from=from_copylink)
